@@ -1,0 +1,14 @@
+{
+  "name": "infromation-app",
+  "version": "1.0.0",
+  "description": "with this program you can see infortamation about your own computer such as the network, memory ram, system and the proccesosor features; also you can make a file whit the previus information.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Sebastián Gámez Ariza",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
