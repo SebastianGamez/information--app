@@ -16,7 +16,7 @@
 ###   - node show-cpu (Show the cpu features)
 ###   - node show-cpu (Write an info.txt file into the root folder)
 
-### Contact Me
+## Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-juan.gamez1001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.gamez1001@gmail.com)](mailto:juan.gamez1001@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat-squahare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)](https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)
