@@ -1,6 +1,6 @@
 # information application 🗃️
 
-### Information application is a nodeJS script with fuction to show relevant information related to system and network.
+### Information application is a nodeJS script with fuction to show relevant information related to system and network. All application was created with OOP.
 
 ## Steps for the installation:
 ###   1. Clone the project
