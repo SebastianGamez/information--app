@@ -8,13 +8,13 @@
 ###   3. Install node
 ###   5. ¡Enjoy!
 
-## Usage: node [option]-[item]
+## Usage: node app.js [option]-[item]
 ###   - options: show, create
 ###   - items: system, cpu, memory, network, file (It's the only possible item for the create option)
 
 ## Examples:
-###   - node show-cpu (Show the cpu features)
-###   - node show-cpu (Write an info.txt file into the root folder)
+###   - node app.js show-cpu (Show the cpu features)
+###   - node app.js create-file (Write an info.txt file into the root folder)
 
 ## Contact Me
 
